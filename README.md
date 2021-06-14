@@ -16,7 +16,7 @@ There are 88,635 employees who are at least Senior Engineer, Staff, Senior Staff
 ![Retiring Titles](Data/retiring_titles.png)
 
 4. **There are 1,940 employees who qualify for the mentorship program** <br/>
-Explanation about point #4 goes here.<br/>
+Only 0.65% of Pewlett Hackard employees are qualified to be mentors. It is uncertain how many will actually participate in the program.<br/>
 
 ## Summary
 
