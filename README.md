@@ -11,13 +11,12 @@ There are many entries for some retirement-ready employees since they have been 
 2. **There are 90,398 employees about to retire** <br/>
 Out of the 300,024 total employees at Pewlett Hackard, it was found that out of the 90,398 individuals ready for retirement, 43,377 title changes occurred.<br/>
 
-3. **Point #3** <br/>
-Explanation about point #3 goes here.<br/>
+3. **The majority of retirement-ready individuals are Senior Engineer or higher** <br/>
+There are 88,635 employees who are at least Senior Engineer, Staff, Senior Staff, or Technique Leader. The rest are Assistant Engineer and Engineer level.<br/>
 ![Retiring Titles](Data/retiring_titles.png)
 
-4. **Point #4** <br/>
+4. **There are 1,940 employees who qualify for the mentorship program** <br/>
 Explanation about point #4 goes here.<br/>
-![Mentorship Eligilibity](Data/mentorship_eligibility.png)
 
 ## Summary
 
@@ -25,7 +24,7 @@ Explanation about point #4 goes here.<br/>
     From running a query on the number of retiring employees, there are 90,398 individuals ready for retirement. To prepare for their absence, there will need to be that many positions filled.<br/>
     ![Unique Titles](Data/unique_titles.png)
 
-- **Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?* <br/>
+- **Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?** <br/>
     A "qualified" employee may be considered one that is Senior Engineer, Staff, Senior Staff, or Technique Leader. There are 1,940 total employees eligible for the mentorship program, but those that are "qualified" account for 1,613 of them. Since there are 300,024 total employees, that would mean that each qualified, retirement-ready individual would have to mentor around 200 other Pewlett Hackard employees, which is definitely **not** enough to mentor the next generation of the staff. <br/>
     ![Scores by school spending](Data/qualified_mentorship.png)
 
